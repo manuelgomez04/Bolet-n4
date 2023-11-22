@@ -1,0 +1,14 @@
+h1 {
+    text-align: center;
+    width: 1250px;
+    height: 250px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 35pt;
+    border: 5px;
+    color: white;
+    border-color: cornsilk;
+    border-style: dotted;
+    background-color: blue;
+    border-radius: 35px 35px;
+
+}

@@ -1,0 +1,24 @@
+    @font-face {
+        font-family: Krsiten;
+        src: url(../Ejercicio02/Recursosejercicio2/kristen-itc.ttf);
+    }
+
+
+p {
+    width: 800px;
+    height: 565px;
+    border: 0px;
+    padding-top: 100px;
+    padding-left: 50px;
+    padding-right: 50px;
+    border-radius: 30px 50px;
+    background-image: url("../Ejercicio02/Recursosejercicio2/fondo_jovenes.png"), url("../Ejercicio02/Recursosejercicio2/fondo_trama.png") ;
+    background-position: bottom;
+    background-size: 70%, auto;
+    background-repeat: no-repeat;
+    color: white;
+    font-family: 'Krsiten' , 'Berlin Sans FB', Arial;
+    text-align: center;
+    font-size: 35pt;
+    text-transform: uppercase;
+}

@@ -1,0 +1,81 @@
+* {
+    box-sizing: border-box;
+}
+
+#envoltorio {
+    width: 85%;
+    margin: 0 auto;
+    min-width: 650px;
+}
+
+#envoltorio header {
+    width: 100%;
+    background-color: rgb(37, 150, 190);
+    padding-top: 70px;
+    padding-bottom: 70px;
+}
+#envoltorio header h1{
+    color: white;
+    text-align: center;
+}
+
+nav{
+    width: 100%;
+    display: flex;
+    background-color: rgba(155, 187, 89,255);
+}
+
+nav p {
+    margin-left: 10px;
+    color: white;
+    font-size: 25px;
+}
+
+#envoltorio #contenido {
+    display: flex;
+}
+
+#envoltorio #contenido #izq{
+    padding: 20px 3%;
+    background-color: rgb(37, 150, 190);
+    width: 25%;
+}
+#envoltorio #contenido #izq h1{
+    color: white;
+    text-align: center;
+}
+
+#envoltorio #contenido #izq p{
+    font-size: 15pt;
+    text-align: center;
+}
+
+#envoltorio #contenido main {
+    width: 50%;
+    padding: 20px 3%;
+}
+#envoltorio #contenido main h1 {
+    font-size: 20px;
+    text-align: center;
+}
+#envoltorio #contenido main p {
+    text-align: center;
+    font-size: 15pt;
+}
+
+#envoltorio #contenido #dcha {
+    padding: 20px 3%;
+    background-color: rgb(37, 150, 190);
+    width: 25%;
+}
+
+#envoltorio #contenido #dcha h1 {
+    font-size: 20pt;
+    text-align: center;
+}
+
+#envoltorio #contenido #dcha img {
+    width: 100%;
+    margin-top: 10px;
+}
+
